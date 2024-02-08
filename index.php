@@ -3,5 +3,8 @@
 
 <?php
 $sokunthea = "Update Product";
+$name = "Veasna";
+
 echo $sokunthea;
+echo $name;
 ?>
